@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70707&width=435&lines=thauann7)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=thauann7)](https://git.io/typing-svg)
 <p align="center">
   Olá! Sou desenvolvedor Full Stack, atualmente em constante aprendizado e sempre buscando expandir e aprofundar meus conhecimentos na área de programação.
 
