@@ -1,6 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70707&width=435&lines=thauann7)](https://git.io/typing-svg)
 <p align="center">
-  Ola, Sou um Desenvolvedor Full Stack, atualmente estudando programação e ansioso para expandir e aprofundar meus conhecimentos na área. Desenvolvimento de ferramentas gratuitas e open source para a comunidade do Discord, incluindo bots, APIs e integrações. Foco em soluções escaláveis e de fácil manutenção.
+  Olá! Sou desenvolvedor Full Stack, atualmente em constante aprendizado e sempre buscando expandir e aprofundar meus conhecimentos na área de programação.
+
+Atuo no desenvolvimento de ferramentas gratuitas e open source voltadas para a comunidade do Discord, incluindo bots, APIs e integrações personalizadas.
+
+Tenho como foco a criação de soluções escaláveis, eficientes e de fácil manutenção, prezando sempre pela qualidade do código e pela experiência do usuário.
 </p>
 
 ## 💻 Habilidades
