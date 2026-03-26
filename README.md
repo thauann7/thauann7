@@ -40,7 +40,7 @@ Tenho como foco a criação de soluções escaláveis, eficientes e de fácil ma
         <img src="https://github-readme-stats.vercel.app/api?username=thauankj&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de thauann7" />
       </td>
       <td>
-        <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thauankj&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Linguagens mais utilizadas" />
+        <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=guihzzy&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Linguagens mais utilizadas" />
       </td>
   </table>
 </div>
