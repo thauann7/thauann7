@@ -17,9 +17,9 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%"></p>
-
 <div align="center">
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%"></p>
 
 # Tech Stack & Ecosystem
 
@@ -40,6 +40,6 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,prisma,discord" alt="Backend and Infrastructure" />
 <br><br>
 
-</div>
-
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%"></p>
+
+</div>
