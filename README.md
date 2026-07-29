@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffff&width=435&lines=thauann7)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=thauan.pw)](https://git.io/typing-svg)
 
 <div align="center">
 
