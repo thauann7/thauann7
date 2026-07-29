@@ -44,33 +44,3 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <br><br>
 
 </div>
-
-<br><br>
-
-<div align="center">
-
----
-
-### Projects
-
----
-
-<a href="https://wyzbots.com.br/">
-  <img src="https://i.imgur.com/jvoOAEK.png" alt="Wyz Bots" width="500"/>
-</a>
-
-<br><br>
-
----
-
-### Portfolio
-
----
-
-<a href="https://thauan.pw/">
-  <img src="https://i.imgur.com/5q2Bp4F.png" alt="Portfolio" width="500"/>
-</a>
-
-</div>
-
----
