@@ -37,23 +37,3 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <br><br>
 
 ---
-
-
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,rust" alt="Languages" />
-<br><br>
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,electron" alt="Frontend" />
-<br><br>
-
-**Backend & Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongo,prisma,discord" alt="Backend and Infrastructure" />
-<br><br>
-
----
-##
