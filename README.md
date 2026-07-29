@@ -19,9 +19,11 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 ---
 
+<div align="center">
+
 # Tech Stack & Ecosystem
 
----
+<hr width="100%">
 
 **Languages**
 <br>
@@ -37,5 +39,7 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,prisma,discord" alt="Backend and Infrastructure" />
 <br><br>
+
+</div>
 
 ---
