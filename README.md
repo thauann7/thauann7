@@ -41,11 +41,8 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 </div>
 
 ---
-<div align="center">
 
-### Tech Stack & Ecosystem
-
-</div>
+# Tech Stack & Ecosystem
 
 **Languages**
 <br>
