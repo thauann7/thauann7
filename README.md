@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=thauan.pw)](https://git.io/typing-svg)
 
+---
+
 ### Automation Expert
+
+---
 
 Transforming ideas into high-performance digital experiences.<br>
 Focusing on **Scalability**, **Clean Code**, and **User Experience**.
