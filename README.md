@@ -8,10 +8,7 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <img src="https://komarev.com/ghpvc/?username=thauann7&label=PROFILE+VIEWS&color=282a36&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
-
-<!-- No exemplo da imagem, foi usado um card de perfil do Discord (provavelmente com a API Lanyard). 
-     Como alternativa nativa do GitHub, coloquei os status do seu perfil abaixo. -->
-<a href="https://github.com/thauann7">
+<a href="https://discord.com/channels/@me/1429597785925091529">
   <img src="https://i.imgur.com/ONLWlMd.png" alt="GitHub Stats" />
 </a>
 
@@ -23,15 +20,15 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,js,py,rust,cs,cpp,lua,ruby,java" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,rust" alt="Languages" />
 <br><br>
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,svelte,vite" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,electron" alt="Frontend" />
 <br><br>
 
 **Backend & Infrastructure**
 <br>
-<img src="https://skillicons.dev/icons?i=mongo,postgres,docker,django,aws,azure,firebase" alt="Backend and Infrastructure" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongo,prisma,discord" alt="Backend and Infrastructure" />
 <br><br>
