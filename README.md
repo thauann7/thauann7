@@ -17,7 +17,7 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 </div>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%"></p>
 
 <div align="center">
 
@@ -40,4 +40,4 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 </div>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="60%"></p>
