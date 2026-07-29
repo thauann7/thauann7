@@ -35,3 +35,6 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,prisma,discord" alt="Backend and Infrastructure" />
 <br><br>
+
+---
+
