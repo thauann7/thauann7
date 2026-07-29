@@ -9,7 +9,7 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 <br><br>
 <a href="https://discord.com/channels/@me/1429597785925091529">
-  <img src="https://i.imgur.com/ONLWlMd.png" alt="GitHub Stats" />
+  <img src="https://api.cee.bio/discord/user/discord-arts/607700740097441803/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true" alt="Discord Status" width="500" />
 </a>
 
 </div>
