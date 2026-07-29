@@ -49,7 +49,9 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 <div align="center">
 
-### Projects & Portfolio
+---
+
+### Projects
 
 ---
 
@@ -58,6 +60,12 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 </a>
 
 <br><br>
+
+---
+
+### Portfolio
+
+---
 
 <a href="https://thauan.pw/">
   <img src="https://i.imgur.com/5q2Bp4F.png" alt="Portfolio" width="500"/>
