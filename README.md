@@ -12,7 +12,7 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 <!-- No exemplo da imagem, foi usado um card de perfil do Discord (provavelmente com a API Lanyard). 
      Como alternativa nativa do GitHub, coloquei os status do seu perfil abaixo. -->
 <a href="https://github.com/thauann7">
-  <img src="https://github-readme-stats.vercel.app/api?username=thauann7&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://i.imgur.com/ONLWlMd.png" alt="GitHub Stats" />
 </a>
 
 </div>
