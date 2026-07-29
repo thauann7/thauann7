@@ -26,6 +26,8 @@ Focusing on **Scalability**, **Clean Code**, and **User Experience**.
 
 ### Tech Stack & Ecosystem
 
+---
+
 **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=ts,js,rust" alt="Languages" />
